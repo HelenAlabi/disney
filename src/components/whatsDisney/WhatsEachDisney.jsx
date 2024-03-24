@@ -12,7 +12,7 @@ const WhatsEachDisney =()=>{
         {
             id:"mar",
             imageM:Marvel,
-            title:"The Marvels"
+            title:"The Marvel"
         },
         {
             id:"iwa",

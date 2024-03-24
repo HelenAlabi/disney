@@ -1,0 +1,14 @@
+.distributedP{
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    margin-left: 5%;
+    gap: 2%;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+#park{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 3%;
+}

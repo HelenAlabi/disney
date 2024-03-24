@@ -1,0 +1,62 @@
+.WhatsBody{
+    background-color: rgb(9, 8, 54);
+    height: 100vh;
+    width: 100vw;
+    margin-top: 4%;
+
+}
+
+.all_what{
+    display: flex;
+    flex-direction: column;
+}
+
+.imageM_what{
+    display: flex;
+    margin-top: 3%;
+    justify-content: space-around;
+}
+
+
+#subW{
+    margin-left: 40%;
+    margin-top: 3%;
+    width: 245px;
+    height: 55px;
+    border-radius: 35px;
+    background-color: rgb(49, 125, 240);
+    border: none;
+    font-size: 17px;
+    font-weight: 700;
+    color: white;
+}
+#headW{
+    color: white;
+    text-align: center;
+}
+
+#mar{
+    color: white;
+    font-size: 20px;
+    margin-top: 1%;
+}
+#iwa{
+    color: white;
+    font-size: 20px;
+    margin-top: 1%;
+}
+#per{
+    color: white;
+    font-size: 20px;
+    margin-top: 1%;
+}
+#logoAll{
+    margin-left: 20%;
+    margin-top: 3%;
+}
+#term{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    margin-top: 3%;
+}

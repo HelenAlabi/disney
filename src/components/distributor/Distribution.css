@@ -1,0 +1,11 @@
+.distributed{
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    margin-left: 5%;
+    gap: -20%;
+    margin-top: 2%;
+    overflow: hidden;
+    background-color: whitesmoke;
+}
+

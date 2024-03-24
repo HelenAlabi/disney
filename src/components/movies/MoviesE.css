@@ -1,0 +1,16 @@
+.distributedM{
+    height: 70vh;
+    width: 60vw;
+    display: flex;
+    margin-left: 5%;
+    margin-top: 2%;
+    overflow: hidden;
+    background-color: whitesmoke;
+    gap: 3%;
+}
+
+#movies{
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 3%;
+}
